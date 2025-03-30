@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-product-site/static/css/main.2acfcc9e.css",
+    "main.js": "/my-product-site/static/js/main.026bc40f.js",
+    "static/js/453.fb4b6e58.chunk.js": "/my-product-site/static/js/453.fb4b6e58.chunk.js",
+    "index.html": "/my-product-site/index.html",
+    "main.2acfcc9e.css.map": "/my-product-site/static/css/main.2acfcc9e.css.map",
+    "main.026bc40f.js.map": "/my-product-site/static/js/main.026bc40f.js.map",
+    "453.fb4b6e58.chunk.js.map": "/my-product-site/static/js/453.fb4b6e58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2acfcc9e.css",
+    "static/js/main.026bc40f.js"
+  ]
+}
