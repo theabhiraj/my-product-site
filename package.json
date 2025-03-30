@@ -1,6 +1,6 @@
 {
-  "name": "my-product-site",
   "homepage": "https://theabhiraj.github.io/my-product-site",
+  "name": "my-product-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
